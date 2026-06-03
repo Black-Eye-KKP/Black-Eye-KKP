@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](githubanner.png)
 
 
 Hi, KKP here 👋
