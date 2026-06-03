@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](gitbanner.png)
 
 
 Hi, KKP here 👋
