@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubsercontent.com/Black-Eye-KKP/Black-Eye-KKP/main/banner.png" alt="Banner" width="100%">
+![Banner](banner.png)
 </p>
 Hi, KKP here 👋
 ## About me
